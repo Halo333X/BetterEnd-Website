@@ -13,7 +13,7 @@ window.onload = () => {
     const content = document.querySelector(".content");
     content.style.opacity = "1";
     content.style.transform = "translateY(0)";
-  }, 1000);
+  }, 100);
 
   const music = document.getElementById('background-music');
   

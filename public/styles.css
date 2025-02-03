@@ -24,7 +24,7 @@ body {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   opacity: 0;
-  transition: opacity 1s ease-in;
+  transition: opacity 0.5s ease-in;
 }
 
 /* Title Container */
@@ -34,7 +34,7 @@ body {
   color: white;
   opacity: 0;
   transform: translateY(-50px);
-  transition: opacity 1s ease, transform 1s ease;
+  transition: opacity 0.5s ease, transform 1s ease;
 }
 
 .content img {
